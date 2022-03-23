@@ -2,4 +2,4 @@
 
 The official code of the paper "Omni-Dimensional Dynamic Convolution" (ODConv, Spotlight at ICLR2022) will be coming soon.
 
-Authors: Chao Li, Aojun Zhou and Anbang Yao
+Authors: Chao Li*, Aojun Zhou and Anbang Yao†

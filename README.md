@@ -1,2 +1,3 @@
-# ODConv
-The code of Omni-Dimensional Dynamic Convolution (ODConv, Spotlight in ICLR2022) will be coming soon. 
+# Omni-Dimensional Dynamic Convolution： A PyTorch Implementation
+
+The code of Omni-Dimensional Dynamic Convolution (ODConv， Spotlight at ICLR2022) will be coming soon. 

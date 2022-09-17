@@ -117,7 +117,7 @@ Please refer to **README.md** in the folder of [object_detection](object_detecti
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@inproceedings{li2022omnidimensional,
+@inproceedings{li2022odconv,
   title={Omni-Dimensional Dynamic Convolution},
   author={Chao Li and Aojun Zhou and Anbang Yao},
   booktitle={International Conference on Learning Representations},

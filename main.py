@@ -277,7 +277,7 @@ def train(train_loader, train_loader_len, model, criterion, optimizer, epoch, us
     for batch_idx, (inputs, targets) in enumerate(train_loader):
         # update temperature of ODConv
         if epoch < args.temp_epoch and hasattr(model.module, 'net_update_temperature'):
-            temp = get_temperature(batch_idx, epoch, train_loader_len,
+            temp = get_temperature(batch_idx + 1, epoch, train_loader_len,
                                    temp_epoch=args.temp_epoch, temp_init=args.temp_init)
             model.module.net_update_temperature(temp)
 

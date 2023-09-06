@@ -129,7 +129,7 @@ If you find our work useful in your research, please consider citing:
 
 ## License
 
-ODConv is released under the MIT license. We encourage use for both research and commercial purposes, as long as proper attribution is given. 
+ODConv is released under the Apache license. We encourage use for both research and commercial purposes, as long as proper attribution is given. 
 
 ## Acknowledgment
 
